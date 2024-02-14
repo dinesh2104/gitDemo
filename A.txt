@@ -1,2 +1,5 @@
 Welcome the sample file 1
 No Conflict
+
+
+Remote changes added
